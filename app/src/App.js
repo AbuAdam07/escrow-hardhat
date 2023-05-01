@@ -56,8 +56,9 @@ function App() {
   return (
     <>
       <div className="contract">
-        <h1> New Contract </h1>
+        <h1> New Contract <img src = "images/123.png" width = "200" height = "100"></img></h1>
         <label>
+          
           Arbiter Address
           <input type="text" id="arbiter" />
         </label>
